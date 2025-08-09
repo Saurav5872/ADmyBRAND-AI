@@ -10,8 +10,8 @@ It includes:
 - A floating chat icon when the chat is closed.
 
 ---
-
+<!-- 
 ## 📂 File Structure
 
 Place the `HeroSection.tsx` file inside your **`components/sections/`** folder:
-
+ -->
