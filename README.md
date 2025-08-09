@@ -1,4 +1,4 @@
-# ADmyBRAND-AI-
+<!-- # ADmyBRAND-AI-
 
 # Hero Section with Chat Widget
 
@@ -7,7 +7,7 @@ It includes:
 - A heading with half-black and half-blue text.
 - A description text.
 - A button that opens a **floating chat widget**.
-- A floating chat icon when the chat is closed.
+- A floating chat icon when the chat is closed. -->
 
 ---
 <!-- 
